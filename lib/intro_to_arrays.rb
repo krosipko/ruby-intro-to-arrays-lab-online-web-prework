@@ -19,5 +19,5 @@ def last_element(array_name)
 end
 
 def first_element_with_array_menthods(array_name)
-  array_name.unshift
+  array_name.first
 end
