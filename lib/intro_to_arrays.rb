@@ -17,3 +17,7 @@ end
 def last_element(array_name)
   array_name[-1]
 end
+
+def first_element_with_array_menthods(array_name)
+  array_name.unshift
+end
