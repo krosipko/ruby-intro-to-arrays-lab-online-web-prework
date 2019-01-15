@@ -7,6 +7,5 @@ def array_with_two_elements
 end
 
 def first_element(array_name, element)
-  array_name=[dex]
   array_name[0]
 end
