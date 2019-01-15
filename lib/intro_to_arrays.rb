@@ -21,3 +21,7 @@ end
 def first_element_with_array_methods(array_name)
   array_name.first
 end
+
+def last_element_with_array_methods(array_name)
+  array_name.last
+end
