@@ -8,4 +8,5 @@ end
 
 def first_element(array_name, element)
   array_name=[dex]
+  array_name[dex]
 end
